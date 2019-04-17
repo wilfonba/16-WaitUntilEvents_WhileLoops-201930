@@ -8,7 +8,7 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
          Mark Hays, Amanda Stouder, Aaron Wilkin, their colleagues,
          and Ben Wilfong.
 """  # Done: 1. PUT YOUR NAME IN THE ABOVE LINE.
-
+ 
 ###############################################################################
 # Done: 2.  Read and run this program.  Then do the following problems,
 #   putting your answers RIGHT HERE IN THIS DOCUMENT.
